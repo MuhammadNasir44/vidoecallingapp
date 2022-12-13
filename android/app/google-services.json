@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117364109973",
+    "project_id": "chatcallapp-c25e2",
+    "storage_bucket": "chatcallapp-c25e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117364109973:android:491c25c44ebcc17f39e19c",
+        "android_client_info": {
+          "package_name": "com.example.chat_call_feature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117364109973-h4ermn5crl5ep7ogihrjib713uml301v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7HzPUL3RH7sqL8zCtmi2_PjBLGpaOD5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117364109973-h4ermn5crl5ep7ogihrjib713uml301v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
